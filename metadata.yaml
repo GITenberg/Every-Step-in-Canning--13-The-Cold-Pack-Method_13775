@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '5214'
     url: http://www.gutenberg.org/2009/agents/5214
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13775#Every-Step-in-Canning--13-The-Cold-Pack-Method
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2004-10-17'
 gutenberg_type: Text
